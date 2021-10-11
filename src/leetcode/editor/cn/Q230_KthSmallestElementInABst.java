@@ -39,27 +39,44 @@ public class Q230_KthSmallestElementInABst{
         Q230_KthSmallestElementInABst tmp = new Q230_KthSmallestElementInABst();
         Solution solution = tmp.new Solution();
     }
-    //leetcode submit region begin(Prohibit modification and deletion)
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
-class Solution {
-    public int kthSmallest(TreeNode root, int k) {
 
+    // Definition for a binary tree node.
+    public class TreeNode {
+        int val;
+        TreeNode left;
+        TreeNode right;
+        TreeNode() {}
+        TreeNode(int val) { this.val = val; }
+        TreeNode(int val, TreeNode left, TreeNode right) {
+            this.val = val;
+            this.left = left;
+            this.right = right;
+        }
+    }
+     
+    //leetcode submit region begin(Prohibit modification and deletion)
+class Solution {
+    // 当前元素的排名
+    int rank = 0;
+    // 最后结果
+    int res = 0;
+    public int kthSmallest(TreeNode root, int k) {
+        // 中序遍历
+        traverse(root, k);
+        return res;
+    }
+
+    // 中序遍历
+    void traverse(TreeNode root, int k) {
+        if (root == null) return;
+        traverse(root.left, k);
+        rank++;
+        if(k == rank){
+            res = root.val;
+            return;
+        }
+        traverse(root.right,k);
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
-
 }
