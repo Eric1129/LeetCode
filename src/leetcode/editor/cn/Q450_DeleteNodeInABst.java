@@ -48,25 +48,44 @@ public class Q450_DeleteNodeInABst{
         Q450_DeleteNodeInABst tmp = new Q450_DeleteNodeInABst();
         Solution solution = tmp.new Solution();
     }
+
+     // Definition for a binary tree node.
+     public class TreeNode {
+         int val;
+         TreeNode left;
+         TreeNode right;
+         TreeNode() {}
+         TreeNode(int val) { this.val = val; }
+         TreeNode(int val, TreeNode left, TreeNode right) {
+             this.val = val;
+             this.left = left;
+             this.right = right;
+         }
+     }
+
     //leetcode submit region begin(Prohibit modification and deletion)
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+
 class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
-
+        if (root == null) return null;
+        if (root.val == key){
+            if(root.left == null) return root.right;
+            if(root.right == null) return root.left;
+            // 如果左右都有node
+            TreeNode minNode = getMinNode(root.right);
+            root.val = minNode.val;
+            root.right = deleteNode(root.right, minNode.val);
+        } else if (root.val < key){
+            root.right = deleteNode(root.right, key);
+        } else if (root.val > key){
+            root.left = deleteNode(root.left, key);
+        }
+        return root;
+    }
+    public TreeNode getMinNode(TreeNode node){
+        // 最左边的node是最小的
+        while (node.left != null) node = node.left;
+        return node;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
