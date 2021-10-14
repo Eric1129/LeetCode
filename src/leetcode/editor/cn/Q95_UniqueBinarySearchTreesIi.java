@@ -30,6 +30,11 @@
 // Related Topics 树 二叉搜索树 动态规划 回溯 二叉树 👍 1004 👎 0
 
 package leetcode.editor.cn;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+
 public class Q95_UniqueBinarySearchTreesIi{
     public static void main(String[] args) {
         Q95_UniqueBinarySearchTreesIi tmp = new Q95_UniqueBinarySearchTreesIi();
@@ -54,7 +59,31 @@ public class Q95_UniqueBinarySearchTreesIi{
 
 class Solution {
     public List<TreeNode> generateTrees(int n) {
+        if(n==0) return new LinkedList<>();
+        return build(1,n);
+    }
 
+    public List<TreeNode> build(int lo, int hi){
+        List<TreeNode> ans = new ArrayList<>();
+        if(lo > hi) {
+            ans.add(null);
+            return ans;
+        }
+
+        for (int i = lo; i<=hi; i++){
+            List<TreeNode> leftTree = build(lo, i-1);
+            List<TreeNode> rightTree = build(i+1, hi);
+
+            for (TreeNode left: leftTree){
+                for(TreeNode right: rightTree){
+                    TreeNode root = new TreeNode(i);
+                    root.left = left;
+                    root.right = right;
+                    ans.add(root);
+                }
+            }
+        }
+        return ans;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
