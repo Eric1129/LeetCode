@@ -53,11 +53,11 @@ class Solution {
 
         // Method2 数学
         // 通过推到 method1 来得到此数学表达式
-        long C = 1;
-        for (int i = 0; i < n; ++i) {
-            C = C * 2 * (2 * i + 1) / (i + 2);
-        }
-        return (int) C;
+//        long C = 1;
+//        for (int i = 0; i < n; ++i) {
+//            C = C * 2 * (2 * i + 1) / (i + 2);
+//        }
+//        return (int) C;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
