@@ -61,6 +61,10 @@
 // Related Topics 深度优先搜索 广度优先搜索 图 回溯 👍 209 👎 0
 
 package leetcode.editor.cn;
+
+import java.util.LinkedList;
+import java.util.List;
+
 public class Q797_AllPathsFromSourceToTarget{
     public static void main(String[] args) {
         Q797_AllPathsFromSourceToTarget tmp = new Q797_AllPathsFromSourceToTarget();
@@ -68,8 +72,31 @@ public class Q797_AllPathsFromSourceToTarget{
     }
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
-    public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
+    List<List<Integer>> res = new LinkedList<>();
 
+    public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
+        LinkedList<Integer> path = new LinkedList<>();
+        tranverse(graph, 0, path);
+        return res;
+    }
+
+    public void tranverse(int[][] graph, int s, LinkedList<Integer> path){
+        // 添加节点s到路径
+        path.add(s);
+
+        int n = graph.length;
+        if(s == n-1){
+            // 到达终点
+            res.add(new LinkedList<>(path));
+            path.removeLast();
+            return;
+        }
+
+        for (int v : graph[s]){
+            tranverse(graph, v, path);
+        }
+
+        path.removeLast();
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
