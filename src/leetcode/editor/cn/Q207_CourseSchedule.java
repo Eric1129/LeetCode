@@ -39,6 +39,10 @@
 // Related Topics 深度优先搜索 广度优先搜索 图 拓扑排序 👍 979 👎 0
 
 package leetcode.editor.cn;
+
+import java.util.LinkedList;
+import java.util.List;
+
 public class Q207_CourseSchedule{
     public static void main(String[] args) {
         Q207_CourseSchedule tmp = new Q207_CourseSchedule();
@@ -46,8 +50,52 @@ public class Q207_CourseSchedule{
     }
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
+    boolean[] visited;
+    boolean[] onPath;
+    boolean hasCycle = false;
     public boolean canFinish(int numCourses, int[][] prerequisites) {
+        List<Integer>[] graph = buildGraph(numCourses, prerequisites);
+        visited = new boolean[numCourses];
+        onPath = new boolean[numCourses];
 
+        for (int i = 0; i < numCourses; i++){
+            // 遍历图中所有节点
+            traverse(graph, i);
+        }
+        return !hasCycle;
+    }
+
+    public void traverse(List<Integer>[] graph, int s){
+        if (onPath[s]){
+            hasCycle = true;
+        }
+
+        if (visited[s] || hasCycle){
+            return;
+        }
+
+        visited[s] = true;
+        onPath[s] = true;
+        for (int t : graph[s]){
+            traverse(graph, t);
+        }
+        onPath[s] = false;
+    }
+
+    List<Integer>[] buildGraph(int numCourses, int[][] prerequisites){
+        // 图中共有numCourses个节点
+        List<Integer>[] graph = new LinkedList[numCourses];
+        for (int i = 0; i < numCourses; i++){
+            graph[i] = new LinkedList<>();
+        }
+        for (int[] edge : prerequisites){
+            int from = edge[1];
+            int to = edge[0];
+            // 修完课程from才能修课程to
+            // 所以在图中舔一条边
+            graph[from].add(to);
+        }
+        return graph;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
