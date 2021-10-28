@@ -66,12 +66,30 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1514_PathWithMaximumProbability.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1514_PathWithMaximumProbability.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1514_PathWithMaximumProbability.java" />
+              <option name="questionId" value="1325" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1610_MaximumNumberOfVisiblePoints.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1610_MaximumNumberOfVisiblePoints.md" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1610_MaximumNumberOfVisiblePoints.java" />
               <option name="questionId" value="1733" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1631_PathWithMinimumEffort.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1631_PathWithMinimumEffort.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1631_PathWithMinimumEffort.java" />
+              <option name="questionId" value="1753" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -345,12 +363,30 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q743_NetworkDelayTime.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q743_NetworkDelayTime.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q743_NetworkDelayTime.java" />
+              <option name="questionId" value="744" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q797_AllPathsFromSourceToTarget.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q797_AllPathsFromSourceToTarget.md" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q797_AllPathsFromSourceToTarget.java" />
               <option name="questionId" value="813" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q869_ReorderedPowerOf2.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q869_ReorderedPowerOf2.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q869_ReorderedPowerOf2.java" />
+              <option name="questionId" value="900" />
             </LeetcodeEditor>
           </value>
         </entry>
