@@ -58,6 +58,9 @@
 // Related Topics 深度优先搜索 广度优先搜索 图 拓扑排序 👍 492 👎 0
 
 package leetcode.editor.cn;
+
+import java.util.*;
+
 public class Q210_CourseScheduleIi{
     public static void main(String[] args) {
         Q210_CourseScheduleIi tmp = new Q210_CourseScheduleIi();
@@ -65,8 +68,74 @@ public class Q210_CourseScheduleIi{
     }
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
-    public int[] findOrder(int numCourses, int[][] prerequisites) {
+    // 记录后序遍历结果
+    List<Integer> postOrder = new ArrayList<>();
 
+    boolean hasCycle = false;
+    boolean[] visited, onPath;
+
+    public int[] findOrder(int numCourses, int[][] prerequisites) {
+        // Method1
+        List<Integer>[] graph = buildGraph(numCourses, prerequisites);
+        visited = new boolean[numCourses];
+        onPath = new boolean[numCourses];
+
+        for (int i = 0; i<numCourses; i++) {
+            traverse(graph, i);
+        }
+
+        // 有环图无解
+        if (hasCycle) {
+            return new int[]{};
+        }
+
+        Collections.reverse(postOrder);
+        int[] res = new int[numCourses];
+        for (int i = 0; i < numCourses; i++) {
+            res[i] = postOrder.get(i);
+        }
+        return res;
+
+        // Method 2
+        // DFS
+
+        // Method 3  BFS
+    }
+
+    private void traverse(List<Integer>[] graph, int s){
+        if (onPath[s]){
+            hasCycle = true;
+        }
+
+        if (visited[s] || hasCycle){
+            return;
+        }
+
+        visited[s] = true;
+        onPath[s] = true;
+        for (int t : graph[s]){
+            traverse(graph, t);
+        }
+
+        // ！！！后序遍历
+        postOrder.add(s);
+        onPath[s] = false;
+    }
+
+    private List<Integer>[] buildGraph(int numCourses, int[][] prerequisites) {
+        // 图中共有numCourses个节点
+        List<Integer>[] graph = new LinkedList[numCourses];
+        for (int i = 0; i < numCourses; i++){
+            graph[i] = new LinkedList<>();
+        }
+        for (int[] edge : prerequisites){
+            int from = edge[1];
+            int to = edge[0];
+            // 修完课程from才能修课程to
+            // 所以在图中舔一条边
+            graph[from].add(to);
+        }
+        return graph;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
