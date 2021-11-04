@@ -48,6 +48,11 @@
 // Related Topics 深度优先搜索 广度优先搜索 并查集 图 👍 139 👎 0
 
 package leetcode.editor.cn;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+
 public class Q886_PossibleBipartition{
     public static void main(String[] args) {
         Q886_PossibleBipartition tmp = new Q886_PossibleBipartition();
@@ -55,8 +60,48 @@ public class Q886_PossibleBipartition{
     }
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
-    public boolean possibleBipartition(int n, int[][] dislikes) {
+    private boolean ok = true;
+    private boolean[] color;
+    private boolean[] visited;
 
+    public boolean possibleBipartition(int n, int[][] dislikes) {
+        color = new boolean[n+1];
+        visited = new boolean[n+1];
+        List<Integer>[] graph = buildGraph(n, dislikes);
+
+        for (int i = 1; i <= n; i++) {
+            if (!visited[i]) traverse(graph, i);
+        }
+        return ok;
+    }
+
+    private List<Integer>[] buildGraph(int n, int[][] dislikes) {
+        List<Integer>[] graph = new LinkedList[n+1];
+        for (int i = 1; i <= n; i++) {
+            graph[i] = new LinkedList<>();
+        }
+        for (int[] edge : dislikes) {
+            int v = edge[1];
+            int w = edge[0];
+            graph[v].add(w);
+            graph[w].add(v);
+        }
+        return graph;
+    }
+
+    private void traverse(List<Integer>[] graph, int v) {
+        if (!ok) return;
+        visited[v] = true;
+        for (int w : graph[v]) {
+            if (!visited[w]) {
+                color[w] = !color[v];
+                traverse(graph, w);
+            } else {
+                if (color[w] == color[v]) {
+                    ok = false;
+                }
+            }
+        }
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
