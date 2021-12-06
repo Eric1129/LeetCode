@@ -52,7 +52,20 @@ public class Q53_MaximumSubarray{
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int maxSubArray(int[] nums) {
+        int n = nums.length;
+        if (n == 0) return 0;
 
+        // 状态压缩
+        int dp_0 = nums[0];
+        int dp_1 = 0, ans = dp_0;
+
+        for(int i = 1; i<n; i++) {
+            dp_1 = Math.max(nums[i], nums[i] + dp_0);
+            dp_0 = dp_1;
+            ans = Math.max(ans, dp_1);
+        }
+
+        return ans;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
