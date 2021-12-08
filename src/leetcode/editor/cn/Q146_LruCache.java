@@ -54,28 +54,49 @@
 // Related Topics 设计 哈希表 链表 双向链表 👍 1707 👎 0
 
 package leetcode.editor.cn;
+
+import java.util.LinkedHashMap;
+
 public class Q146_LruCache{
     public static void main(String[] args) {
         Q146_LruCache tmp = new Q146_LruCache();
-        LRUCache solution = tmp.new LRUCache();
+        LRUCache solution = tmp.new LRUCache(2);
     }
     //leetcode submit region begin(Prohibit modification and deletion)
 class LRUCache {
+    int cap;
+    LinkedHashMap<Integer, Integer> cache = new LinkedHashMap<>();
 
     public LRUCache(int capacity) {
-
-    }
-
-    public LRUCache() {
-
+        this.cap = capacity;
     }
 
     public int get(int key) {
-
+        if (!cache.containsKey(key)) {
+            return -1;
+        }
+        makeRecently(key);
+        return cache.get(key);
     }
     
     public void put(int key, int value) {
+        if (cache.containsKey(key)) {
+            cache.put(key, value);
+            makeRecently(key);
+            return;
+        }
 
+        if (cache.size() >= this.cap) {
+            int oldestKey = cache.keySet().iterator().next();
+            cache.remove(oldestKey);
+        }
+        cache.put(key,value);
+    }
+
+    private void makeRecently(int key) {
+        int val = cache.get(key);
+        cache.remove(key);
+        cache.put(key,val);
     }
 }
 
