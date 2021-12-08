@@ -55,7 +55,21 @@ public class Q209_MinimumSizeSubarraySum{
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
-
+        int n = nums.length;
+        int l = 0, r = 0;
+        int minLength = Integer.MAX_VALUE;
+        int sum = 0;
+        while (r < n) {
+            sum += nums[r];
+            while (sum >= target) {
+                int length = r - l + 1;
+                minLength = Math.min(minLength, length);
+                sum -= nums[l];
+                l++;
+            }
+            r++;
+        }
+        return minLength == Integer.MAX_VALUE ? 0 : minLength;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

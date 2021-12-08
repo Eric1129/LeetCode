@@ -56,7 +56,45 @@ public class Q1395_CountNumberOfTeams{
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int numTeams(int[] rating) {
+        int n = rating.length;
+        int sum = 0;
 
+        // 暴力解法
+//        for (int i = 0; i < n; i++) {
+//            for (int j = i + 1; j < n; j++) {
+//                for (int k = j + 1; k < n; k++) {
+//                    if ((rating[i] < rating[j] && rating[j] < rating[k])
+//                            || (rating[i] > rating[j] && rating[j] > rating[k])) {
+//                        sum++;
+//                    }
+//                }
+//            }
+//        }
+
+        // 2. 找j
+        for (int j = 1; j < n -1; j++) {
+            int iLess = 0, iMore = 0;
+            int kLess = 0, kMore = 0;
+
+            for (int i = 0; i < j; ++i) {
+                if (rating[i] < rating[j]) {
+                    iLess++;
+                } else {
+                    iMore++;
+                }
+            }
+
+            for (int k = j + 1; k < n; ++k) {
+                if (rating[k] < rating[j]) {
+                    kLess++;
+                } else {
+                    kMore++;
+                }
+            }
+            sum += iLess*kMore + iMore*kLess;
+        }
+
+        return sum;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

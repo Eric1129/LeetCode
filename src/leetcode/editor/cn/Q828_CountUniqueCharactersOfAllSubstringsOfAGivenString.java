@@ -46,6 +46,10 @@
 // Related Topics 字符串 动态规划 👍 97 👎 0
 
 package leetcode.editor.cn;
+
+import java.util.HashMap;
+import java.util.HashSet;
+
 public class Q828_CountUniqueCharactersOfAllSubstringsOfAGivenString{
     public static void main(String[] args) {
         Q828_CountUniqueCharactersOfAllSubstringsOfAGivenString tmp = new Q828_CountUniqueCharactersOfAllSubstringsOfAGivenString();
@@ -53,9 +57,39 @@ public class Q828_CountUniqueCharactersOfAllSubstringsOfAGivenString{
     }
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
+
     public int uniqueLetterString(String s) {
+//        int n = s.length();
+//        long sum = 0;
+//        for (int i = 0; i < n; i++) {
+//            for (int j = i+1; j <= n; j++) {
+//                sum += countUniqueChars(s.substring(i,j));
+//            }
+//        }
+//        return (int) sum % (10^9 + 7);
+
 
     }
+
+    // brute force failed
+//    private int countUniqueChars(String s) {
+//        int sum = 0;
+//        HashMap<Character, Integer> map = new HashMap<>();
+//
+//        for (int i = 0; i < s.length(); i++) {
+//            if (!map.containsKey(s.charAt(i))) {
+//                map.put(s.charAt(i),1);
+//            } else {
+//                map.put(s.charAt(i), map.get(s.charAt(i)) + 1);
+//            }
+//        }
+//        for (int i = 0; i < s.length(); i++) {
+//            if (map.get(s.charAt(i)) == 1) {
+//                sum++;
+//            }
+//        }
+//        return sum;
+//    }
 }
 //leetcode submit region end(Prohibit modification and deletion)
 
