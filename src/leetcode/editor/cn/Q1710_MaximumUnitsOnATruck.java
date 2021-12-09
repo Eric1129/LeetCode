@@ -43,6 +43,10 @@
 // Related Topics 贪心 数组 排序 👍 24 👎 0
 
 package leetcode.editor.cn;
+
+import java.util.Arrays;
+import java.util.Comparator;
+
 public class Q1710_MaximumUnitsOnATruck{
     public static void main(String[] args) {
         Q1710_MaximumUnitsOnATruck tmp = new Q1710_MaximumUnitsOnATruck();
@@ -51,7 +55,24 @@ public class Q1710_MaximumUnitsOnATruck{
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int maximumUnits(int[][] boxTypes, int truckSize) {
-
+        Arrays.sort(boxTypes, new Comparator<int[]>() {
+            @Override
+            public int compare(int[] o1, int[] o2) {
+                return o2[1] - o1[1];
+            }
+        });
+        int sum = 0;
+        int res = truckSize;
+        for (int[] i : boxTypes) {
+            if ( res > i[0]) {
+                sum += i[0]*i[1];
+                res -= i[0];
+            } else {
+                sum += res*i[1];
+                break;
+            }
+        }
+        return sum;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
