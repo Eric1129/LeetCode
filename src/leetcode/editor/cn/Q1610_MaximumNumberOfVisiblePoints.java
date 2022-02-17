@@ -54,6 +54,9 @@
 // Related Topics 几何 数组 数学 排序 滑动窗口 👍 24 👎 0
 
 package leetcode.editor.cn;
+
+import java.util.List;
+
 public class Q1610_MaximumNumberOfVisiblePoints{
     public static void main(String[] args) {
         Q1610_MaximumNumberOfVisiblePoints tmp = new Q1610_MaximumNumberOfVisiblePoints();
