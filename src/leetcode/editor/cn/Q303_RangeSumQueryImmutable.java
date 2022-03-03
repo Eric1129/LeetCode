@@ -50,19 +50,33 @@ public class Q303_RangeSumQueryImmutable{
     }
     //leetcode submit region begin(Prohibit modification and deletion)
 class NumArray {
-    private int[] nums;
+        private int[] preSums;
 
-    public NumArray(int[] nums) {
-        this.nums = nums;
-    }
-    
-    public int sumRange(int left, int right) {
-        int sum = 0;
-        for (int i = left; i <= right; i++) {
-            sum+=nums[i];
+        public NumArray(int[] nums) {
+            preSums = new int[nums.length+1];
+            for (int i = 1; i < nums.length; i++) {
+                preSums[i] = preSums[i-1] + nums[i-1];
+            }
         }
-        return sum;
-    }
+
+        public int sumRange(int left, int right) {
+            return preSums[right+1] - preSums[left-1];
+        }
+
+    // Q1 效率极差
+//    private int[] nums;
+//
+//    public NumArray(int[] nums) {
+//        this.nums = nums;
+//    }
+//
+//    public int sumRange(int left, int right) {
+//        int sum = 0;
+//        for (int i = left; i <= right; i++) {
+//            sum+=nums[i];
+//        }
+//        return sum;
+//    }
 }
 
 /**
