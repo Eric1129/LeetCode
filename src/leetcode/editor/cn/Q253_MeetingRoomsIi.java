@@ -42,10 +42,11 @@ public class Q253_MeetingRoomsIi{
 class Solution {
     public int minMeetingRooms(int[][] intervals) {
         if (intervals==null || intervals.length == 0) return 0;
+        // NlogN
         Arrays.sort(intervals, Comparator.comparingInt(o -> o[0]));
         PriorityQueue<Integer> queue = new PriorityQueue<>();
         queue.add(intervals[0][1]);
-
+        // NlogN
         for (int i = 1; i < intervals.length; i++) {
             int last = queue.peek();
             if (last <= intervals[i][0]) queue.poll();

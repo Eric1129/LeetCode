@@ -107,6 +107,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1539_KthMissingPositiveNumber.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1539_KthMissingPositiveNumber.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1539" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1539_KthMissingPositiveNumber.java" />
+              <option name="titleSlug" value="kth-missing-positive-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1584_MinCostToConnectAllPoints.java">
           <value>
             <LeetcodeEditor>
@@ -155,6 +166,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q187_RepeatedDnaSequences.md" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q187_RepeatedDnaSequences.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q199_BinaryTreeRightSideView.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q199_BinaryTreeRightSideView.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com199" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q199_BinaryTreeRightSideView.java" />
+              <option name="titleSlug" value="binary-tree-right-side-view" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -300,6 +322,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q298_BinaryTreeLongestConsecutiveSequence.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q298_BinaryTreeLongestConsecutiveSequence.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com298" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q298_BinaryTreeLongestConsecutiveSequence.java" />
+              <option name="titleSlug" value="binary-tree-longest-consecutive-sequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q299_BullsAndCows.java">
           <value>
             <LeetcodeEditor>
@@ -364,6 +397,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q341_FlattenNestedListIterator.md" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q341_FlattenNestedListIterator.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q36_ValidSudoku.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q36_ValidSudoku.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com36" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q36_ValidSudoku.java" />
+              <option name="titleSlug" value="valid-sudoku" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -477,6 +521,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q498_DiagonalTraverse.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q498_DiagonalTraverse.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com498" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q498_DiagonalTraverse.java" />
+              <option name="titleSlug" value="diagonal-traverse" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q509_FibonacciNumber.java">
           <value>
             <LeetcodeEditor>
@@ -533,6 +588,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q65_ValidNumber.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q65_ValidNumber.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com65" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q65_ValidNumber.java" />
+              <option name="titleSlug" value="valid-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q696_CountBinarySubstrings.java">
           <value>
             <LeetcodeEditor>
@@ -554,6 +620,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q701_InsertIntoABinarySearchTree.md" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q701_InsertIntoABinarySearchTree.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q708_InsertIntoASortedCircularLinkedList.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q708_InsertIntoASortedCircularLinkedList.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com708" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q708_InsertIntoASortedCircularLinkedList.java" />
+              <option name="titleSlug" value="insert-into-a-sorted-circular-linked-list" />
             </LeetcodeEditor>
           </value>
         </entry>
