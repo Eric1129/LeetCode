@@ -25,8 +25,8 @@
 // 提示： 
 //
 // 
-// 树中节点的数目在范围 [1, 3 * 10⁴] 内 
-// -3 * 10⁴ <= Node.val <= 3 * 10⁴ 
+// 树中节点的数目在范围 [1, 3 10⁴] 内
+// -3 10⁴ <= Node.val <= 3 10⁴
 // 
 // Related Topics 树 深度优先搜索 二叉树 👍 86 👎 0
 
@@ -36,22 +36,23 @@ public class Q298_BinaryTreeLongestConsecutiveSequence{
         Q298_BinaryTreeLongestConsecutiveSequence tmp = new Q298_BinaryTreeLongestConsecutiveSequence();
         Solution solution = tmp.new Solution();
     }
+
+     // Definition for a binary tree node.
+     public class TreeNode {
+         int val;
+         TreeNode left;
+         TreeNode right;
+         TreeNode() {}
+         TreeNode(int val) { this.val = val; }
+         TreeNode(int val, TreeNode left, TreeNode right) {
+             this.val = val;
+             this.left = left;
+             this.right = right;
+         }
+     }
+
     //leetcode submit region begin(Prohibit modification and deletion)
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+
 class Solution {
     public int longestConsecutive(TreeNode root) {
 
