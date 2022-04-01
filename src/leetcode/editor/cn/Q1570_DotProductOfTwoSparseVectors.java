@@ -53,18 +53,22 @@ package leetcode.editor.cn;
 public class Q1570_DotProductOfTwoSparseVectors{
     public static void main(String[] args) {
         Q1570_DotProductOfTwoSparseVectors tmp = new Q1570_DotProductOfTwoSparseVectors();
-        SparseVector solution = tmp.new SparseVector();
+        SparseVector solution = tmp.new SparseVector(new int[0]);
     }
     //leetcode submit region begin(Prohibit modification and deletion)
 class SparseVector {
-    
+    int[] sparseVector;
     SparseVector(int[] nums) {
-        
+        sparseVector = nums;
     }
     
 	// Return the dotProduct of two sparse vectors
     public int dotProduct(SparseVector vec) {
-        
+        int sum = 0;
+        for (int i = 0; i < this.sparseVector.length; i++) {
+            sum += this.sparseVector[i]*vec.sparseVector[i];
+        }
+        return sum;
     }
 }
 
