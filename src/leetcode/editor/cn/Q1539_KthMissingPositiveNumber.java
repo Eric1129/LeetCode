@@ -39,7 +39,15 @@ public class Q1539_KthMissingPositiveNumber{
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int findKthPositive(int[] arr, int k) {
-
+        // The answer must be equal or greater than K
+        for (int i = 0; i < arr.length; i++) {
+            // if there is any element inside arr is smaller than k means
+            // the answer has to be bigger than k+1
+            if (arr[i] <= k) {
+                k++;
+            }
+        }
+        return k;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

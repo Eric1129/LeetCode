@@ -56,6 +56,9 @@
 // Related Topics 数组 双指针 👍 11 👎 0
 
 package leetcode.editor.cn;
+
+import java.util.List;
+
 public class Q1868_ProductOfTwoRunLengthEncodedArrays{
     public static void main(String[] args) {
         Q1868_ProductOfTwoRunLengthEncodedArrays tmp = new Q1868_ProductOfTwoRunLengthEncodedArrays();

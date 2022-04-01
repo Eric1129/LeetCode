@@ -57,6 +57,7 @@ public class Q1570_DotProductOfTwoSparseVectors{
     }
     //leetcode submit region begin(Prohibit modification and deletion)
 class SparseVector {
+
     int[] sparseVector;
     SparseVector(int[] nums) {
         sparseVector = nums;
