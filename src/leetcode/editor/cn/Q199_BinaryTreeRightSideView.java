@@ -36,30 +36,62 @@
 // Related Topics 树 深度优先搜索 广度优先搜索 二叉树 👍 653 👎 0
 
 package leetcode.editor.cn;
+
+import java.util.*;
+
 public class Q199_BinaryTreeRightSideView{
     public static void main(String[] args) {
         Q199_BinaryTreeRightSideView tmp = new Q199_BinaryTreeRightSideView();
         Solution solution = tmp.new Solution();
     }
-    //leetcode submit region begin(Prohibit modification and deletion)
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
-class Solution {
-    public List<Integer> rightSideView(TreeNode root) {
 
+     // Definition for a binary tree node.
+     public class TreeNode {
+         int val;
+         TreeNode left;
+         TreeNode right;
+         TreeNode() {}
+         TreeNode(int val) { this.val = val; }
+         TreeNode(int val, TreeNode left, TreeNode right) {
+             this.val = val;
+             this.left = left;
+             this.right = right;
+         }
+     }
+
+    //leetcode submit region begin(Prohibit modification and deletion)
+
+class Solution {
+
+    public List<Integer> rightSideView(TreeNode root) {
+        Map<Integer, Integer> rightValueAtDepth = new HashMap<>();
+        int maxDepth = -1;
+
+        Queue<TreeNode> queue = new LinkedList<>();
+        Queue<Integer> depthQueue = new LinkedList<>();
+        queue.add(root);
+        depthQueue.add(0);
+
+        while(!queue.isEmpty()){
+            TreeNode node = queue.poll();
+            int depth = depthQueue.poll();
+
+            if (node != null) {
+                maxDepth = Math.max(maxDepth, depth);
+
+                rightValueAtDepth.put(depth, node.val);
+
+                queue.add(node.left);
+                queue.add(node.right);
+                depthQueue.add(depth+1);
+                depthQueue.add(depth+1);
+            }
+        }
+        List<Integer> list = new ArrayList<>();
+        for (int depth = 0; depth <= maxDepth; depth++) {
+            list.add(rightValueAtDepth.get(depth));
+        }
+        return list;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
