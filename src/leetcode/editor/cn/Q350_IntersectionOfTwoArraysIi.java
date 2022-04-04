@@ -53,13 +53,9 @@ class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
         HashMap<Integer,Integer> map = new HashMap<>();
         List<Integer> ans = new ArrayList<>();
-        for ( int i = 0; i < nums1.length; i++) {
-            int tmp = nums1[i];
-            if (map.containsKey(tmp)) {
-                map.put(tmp,map.get(tmp)+1);
-            } else {
-                map.put(tmp,1);
-            }
+        for ( int num : nums1) {
+            int count = map.getOrDefault(num, 0) + 1;
+            map.put(num, count);
         }
 
         for (int i = 0; i < nums2.length; i++) {
