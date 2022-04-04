@@ -422,6 +422,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q350_IntersectionOfTwoArraysIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q350_IntersectionOfTwoArraysIi.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com350" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q350_IntersectionOfTwoArraysIi.java" />
+              <option name="titleSlug" value="intersection-of-two-arrays-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q36_ValidSudoku.java">
           <value>
             <LeetcodeEditor>
@@ -775,6 +786,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q886_PossibleBipartition.md" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q886_PossibleBipartition.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q896_MonotonicArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q896_MonotonicArray.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com896" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q896_MonotonicArray.java" />
+              <option name="titleSlug" value="monotonic-array" />
             </LeetcodeEditor>
           </value>
         </entry>
