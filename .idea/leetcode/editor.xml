@@ -3,6 +3,22 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="/var/folders/fh/khwb091s4m5d9t6l4qms2jkh0000gn/T/leetcode/editor/cn/[2]两数相加.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/AddTwoNumbers.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/AddTwoNumbers.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/fh/khwb091s4m5d9t6l4qms2jkh0000gn/T/leetcode/editor/cn/[3]无重复字符的最长子串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[3]无重复字符的最长子串.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[3]无重复字符的最长子串.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/1_TwoSum.java">
           <value>
             <LeetcodeEditor>
@@ -412,6 +428,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q314_BinaryTreeVerticalOrderTraversal.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q314_BinaryTreeVerticalOrderTraversal.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com314" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q314_BinaryTreeVerticalOrderTraversal.java" />
+              <option name="titleSlug" value="binary-tree-vertical-order-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q315_CountOfSmallerNumbersAfterSelf.java">
           <value>
             <LeetcodeEditor>
@@ -482,6 +509,17 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q378_KthSmallestElementInASortedMatrix.java" />
               <option name="titleSlug" value="kth-smallest-element-in-a-sorted-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q387_FirstUniqueCharacterInAString.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q387_FirstUniqueCharacterInAString.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com387" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q387_FirstUniqueCharacterInAString.java" />
+              <option name="titleSlug" value="first-unique-character-in-a-string" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -985,22 +1023,6 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[3]无重复字符的最长子串.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[3]无重复字符的最长子串.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[3]无重复字符的最长子串.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/fh/khwb091s4m5d9t6l4qms2jkh0000gn/T/leetcode/editor/cn/[2]两数相加.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/AddTwoNumbers.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/AddTwoNumbers.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/fh/khwb091s4m5d9t6l4qms2jkh0000gn/T/leetcode/editor/cn/[3]无重复字符的最长子串.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[3]无重复字符的最长子串.md" />
