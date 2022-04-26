@@ -3,6 +3,22 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="/var/folders/fh/khwb091s4m5d9t6l4qms2jkh0000gn/T/leetcode/editor/cn/[2]两数相加.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/AddTwoNumbers.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/AddTwoNumbers.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/fh/khwb091s4m5d9t6l4qms2jkh0000gn/T/leetcode/editor/cn/[3]无重复字符的最长子串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[3]无重复字符的最长子串.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[3]无重复字符的最长子串.java" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/1_TwoSum.java">
           <value>
             <LeetcodeEditor>
@@ -998,6 +1014,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q929_UniqueEmailAddresses.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q929_UniqueEmailAddresses.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com929" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q929_UniqueEmailAddresses.java" />
+              <option name="titleSlug" value="unique-email-addresses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q92_ReverseLinkedListIi.java">
           <value>
             <LeetcodeEditor>
@@ -1117,22 +1144,6 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[3]无重复字符的最长子串.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[3]无重复字符的最长子串.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[3]无重复字符的最长子串.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/fh/khwb091s4m5d9t6l4qms2jkh0000gn/T/leetcode/editor/cn/[2]两数相加.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/AddTwoNumbers.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/AddTwoNumbers.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/fh/khwb091s4m5d9t6l4qms2jkh0000gn/T/leetcode/editor/cn/[3]无重复字符的最长子串.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[3]无重复字符的最长子串.md" />
