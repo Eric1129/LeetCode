@@ -53,6 +53,9 @@
 // Related Topics 数组 前缀和 👍 394 👎 0
 
 package leetcode.editor.cn;
+
+import java.util.Arrays;
+
 public class Q724_FindPivotIndex{
     public static void main(String[] args) {
         Q724_FindPivotIndex tmp = new Q724_FindPivotIndex();
@@ -61,7 +64,24 @@ public class Q724_FindPivotIndex{
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int pivotIndex(int[] nums) {
-
+//        int[] sum = new int[nums.length];
+//        sum[0] = 0;
+//        for (int i = 1; i < nums.length; i++) {
+//            sum[i] = sum[i-1] + nums[i-1];
+//        }
+//        for (int i = 0; i < nums.length; i++) {
+//            if (sum[i] == (sum[sum.length-1] - sum[i] - nums[i])) {
+//                return i;
+//            }
+//        }
+//        return -1;
+        int total = Arrays.stream(nums).sum();
+        int sum = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (2 * sum + nums[i] == total) return i;
+            sum += nums[i];
+        }
+        return -1;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
