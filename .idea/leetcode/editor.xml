@@ -3,118 +3,14 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
-        <entry key="/var/folders/fh/khwb091s4m5d9t6l4qms2jkh0000gn/T/leetcode/editor/cn/[2]两数相加.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/AddTwoNumbers.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/AddTwoNumbers.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="/var/folders/fh/khwb091s4m5d9t6l4qms2jkh0000gn/T/leetcode/editor/cn/[3]无重复字符的最长子串.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[3]无重复字符的最长子串.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[3]无重复字符的最长子串.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/1_TwoSum.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1_TwoSum.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1_TwoSum.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/AddTwoNumbers.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/AddTwoNumbers.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/AddTwoNumbers.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1038_BinarySearchTreeToGreaterSumTree.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1038_BinarySearchTreeToGreaterSumTree.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1038_BinarySearchTreeToGreaterSumTree.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1048_LongestStringChain.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1048_LongestStringChain.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1048_LongestStringChain.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1120_MaximumAverageSubtree.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1120_MaximumAverageSubtree.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1120_MaximumAverageSubtree.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q114_FlattenBinaryTreeToLinkedList.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q114_FlattenBinaryTreeToLinkedList.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q114_FlattenBinaryTreeToLinkedList.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q116_PopulatingNextRightPointersInEachNode.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q116_PopulatingNextRightPointersInEachNode.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q116_PopulatingNextRightPointersInEachNode.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1248_CountNumberOfNiceSubarrays.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1248_CountNumberOfNiceSubarrays.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1248_CountNumberOfNiceSubarrays.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1249_MinimumRemoveToMakeValidParentheses.java">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1249_MinimumRemoveToMakeValidParentheses.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com1249" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn1249" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1249_MinimumRemoveToMakeValidParentheses.java" />
               <option name="titleSlug" value="minimum-remove-to-make-valid-parentheses" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q130_SurroundedRegions.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q130_SurroundedRegions.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q130_SurroundedRegions.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1373_MaximumSumBstInBinaryTree.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1373_MaximumSumBstInBinaryTree.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1373_MaximumSumBstInBinaryTree.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1395_CountNumberOfTeams.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1395_CountNumberOfTeams.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1395_CountNumberOfTeams.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -122,26 +18,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q139_WordBreak.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com139" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn139" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q139_WordBreak.java" />
               <option name="titleSlug" value="word-break" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q146_LruCache.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q146_LruCache.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q146_LruCache.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1514_PathWithMaximumProbability.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1514_PathWithMaximumProbability.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1514_PathWithMaximumProbability.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -149,8 +29,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1539_KthMissingPositiveNumber.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com1539" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn1539" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1539_KthMissingPositiveNumber.java" />
               <option name="titleSlug" value="kth-missing-positive-number" />
             </LeetcodeEditor>
@@ -160,42 +40,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1570_DotProductOfTwoSparseVectors.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com1570" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn1570" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1570_DotProductOfTwoSparseVectors.java" />
               <option name="titleSlug" value="dot-product-of-two-sparse-vectors" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1584_MinCostToConnectAllPoints.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1584_MinCostToConnectAllPoints.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1584_MinCostToConnectAllPoints.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1610_MaximumNumberOfVisiblePoints.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1610_MaximumNumberOfVisiblePoints.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1610_MaximumNumberOfVisiblePoints.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1631_PathWithMinimumEffort.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1631_PathWithMinimumEffort.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1631_PathWithMinimumEffort.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1710_MaximumUnitsOnATruck.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1710_MaximumUnitsOnATruck.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1710_MaximumUnitsOnATruck.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -203,8 +51,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1791_FindCenterOfStarGraph.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com1791" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn1791" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1791_FindCenterOfStarGraph.java" />
               <option name="titleSlug" value="find-center-of-star-graph" />
             </LeetcodeEditor>
@@ -214,18 +62,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1868_ProductOfTwoRunLengthEncodedArrays.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com1868" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn1868" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1868_ProductOfTwoRunLengthEncodedArrays.java" />
               <option name="titleSlug" value="product-of-two-run-length-encoded-arrays" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q187_RepeatedDnaSequences.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q187_RepeatedDnaSequences.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q187_RepeatedDnaSequences.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -233,26 +73,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q199_BinaryTreeRightSideView.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com199" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn199" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q199_BinaryTreeRightSideView.java" />
               <option name="titleSlug" value="binary-tree-right-side-view" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1TwoSum.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1_TwoSum.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1_TwoSum.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q1_TwoSum.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1_TwoSum.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1_TwoSum.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -260,82 +84,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q203_RemoveLinkedListElements.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com203" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn203" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q203_RemoveLinkedListElements.java" />
               <option name="titleSlug" value="remove-linked-list-elements" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q206_ReverseLinkedList.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q206_ReverseLinkedList.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q206_ReverseLinkedList.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q207_CourseSchedule.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q207_CourseSchedule.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q207_CourseSchedule.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q209_MinimumSizeSubarraySum.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q209_MinimumSizeSubarraySum.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q209_MinimumSizeSubarraySum.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q210_CourseScheduleIi.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q210_CourseScheduleIi.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q210_CourseScheduleIi.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q222_CountCompleteTreeNodes.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q222_CountCompleteTreeNodes.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q222_CountCompleteTreeNodes.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q226_InvertBinaryTree.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q226_InvertBinaryTree.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q226_InvertBinaryTree.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q230_KthSmallestElementInABst.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q230_KthSmallestElementInABst.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q230_KthSmallestElementInABst.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q234_PalindromeLinkedList.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q234_PalindromeLinkedList.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q234_PalindromeLinkedList.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q236_LowestCommonAncestorOfABinaryTree.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q236_LowestCommonAncestorOfABinaryTree.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q236_LowestCommonAncestorOfABinaryTree.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -343,18 +95,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q238_ProductOfArrayExceptSelf.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com238" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn238" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q238_ProductOfArrayExceptSelf.java" />
               <option name="titleSlug" value="product-of-array-except-self" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q239_SlidingWindowMaximum.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q239_SlidingWindowMaximum.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q239_SlidingWindowMaximum.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -362,8 +106,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q242_ValidAnagram.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com242" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn242" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q242_ValidAnagram.java" />
               <option name="titleSlug" value="valid-anagram" />
             </LeetcodeEditor>
@@ -373,8 +117,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q246_StrobogrammaticNumber.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com246" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn246" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q246_StrobogrammaticNumber.java" />
               <option name="titleSlug" value="strobogrammatic-number" />
             </LeetcodeEditor>
@@ -384,8 +128,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q253_MeetingRoomsIi.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com253" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn253" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q253_MeetingRoomsIi.java" />
               <option name="titleSlug" value="meeting-rooms-ii" />
             </LeetcodeEditor>
@@ -395,18 +139,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q258_AddDigits.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com258" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn258" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q258_AddDigits.java" />
               <option name="titleSlug" value="add-digits" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q25_ReverseNodesInKGroup.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q25_ReverseNodesInKGroup.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q25_ReverseNodesInKGroup.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -414,26 +150,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q266_PalindromePermutation.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com266" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn266" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q266_PalindromePermutation.java" />
               <option name="titleSlug" value="palindrome-permutation" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q273_IntegerToEnglishWords.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q273_IntegerToEnglishWords.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q273_IntegerToEnglishWords.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q297_SerializeAndDeserializeBinaryTree.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q297_SerializeAndDeserializeBinaryTree.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q297_SerializeAndDeserializeBinaryTree.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -441,34 +161,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q298_BinaryTreeLongestConsecutiveSequence.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com298" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn298" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q298_BinaryTreeLongestConsecutiveSequence.java" />
               <option name="titleSlug" value="binary-tree-longest-consecutive-sequence" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q299_BullsAndCows.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q299_BullsAndCows.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q299_BullsAndCows.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q29_DivideTwoIntegers.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q29_DivideTwoIntegers.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q29_DivideTwoIntegers.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q300_LongestIncreasingSubsequence.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q300_LongestIncreasingSubsequence.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q300_LongestIncreasingSubsequence.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -476,8 +172,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q303_RangeSumQueryImmutable.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com303" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn303" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q303_RangeSumQueryImmutable.java" />
               <option name="titleSlug" value="range-sum-query-immutable" />
             </LeetcodeEditor>
@@ -487,42 +183,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q314_BinaryTreeVerticalOrderTraversal.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com314" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn314" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q314_BinaryTreeVerticalOrderTraversal.java" />
               <option name="titleSlug" value="binary-tree-vertical-order-traversal" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q315_CountOfSmallerNumbersAfterSelf.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q315_CountOfSmallerNumbersAfterSelf.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q315_CountOfSmallerNumbersAfterSelf.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q322_CoinChange.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q322_CoinChange.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q322_CoinChange.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q335_SelfCrossing.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q335_SelfCrossing.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q335_SelfCrossing.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q341_FlattenNestedListIterator.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q341_FlattenNestedListIterator.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q341_FlattenNestedListIterator.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -530,8 +194,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q350_IntersectionOfTwoArraysIi.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com350" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn350" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q350_IntersectionOfTwoArraysIi.java" />
               <option name="titleSlug" value="intersection-of-two-arrays-ii" />
             </LeetcodeEditor>
@@ -541,18 +205,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q36_ValidSudoku.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com36" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn36" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q36_ValidSudoku.java" />
               <option name="titleSlug" value="valid-sudoku" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q374_GuessNumberHigherOrLower.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q374_GuessNumberHigherOrLower.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q374_GuessNumberHigherOrLower.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -560,8 +216,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q378_KthSmallestElementInASortedMatrix.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com378" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn378" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q378_KthSmallestElementInASortedMatrix.java" />
               <option name="titleSlug" value="kth-smallest-element-in-a-sorted-matrix" />
             </LeetcodeEditor>
@@ -571,18 +227,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q387_FirstUniqueCharacterInAString.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com387" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn387" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q387_FirstUniqueCharacterInAString.java" />
               <option name="titleSlug" value="first-unique-character-in-a-string" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q38_CountAndSay.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q38_CountAndSay.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q38_CountAndSay.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -590,34 +238,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q408_ValidWordAbbreviation.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com408" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn408" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q408_ValidWordAbbreviation.java" />
               <option name="titleSlug" value="valid-word-abbreviation" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q412_FizzBuzz.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q412_FizzBuzz.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q412_FizzBuzz.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q414_ThirdMaximumNumber.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q414_ThirdMaximumNumber.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q414_ThirdMaximumNumber.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q416_PartitionEqualSubsetSum.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q416_PartitionEqualSubsetSum.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q416_PartitionEqualSubsetSum.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -625,8 +249,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q435_NonOverlappingIntervals.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com435" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn435" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q435_NonOverlappingIntervals.java" />
               <option name="titleSlug" value="non-overlapping-intervals" />
             </LeetcodeEditor>
@@ -636,18 +260,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q438_FindAllAnagramsInAString.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com438" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn438" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q438_FindAllAnagramsInAString.java" />
               <option name="titleSlug" value="find-all-anagrams-in-a-string" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q450_DeleteNodeInABst.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q450_DeleteNodeInABst.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q450_DeleteNodeInABst.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -655,26 +271,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q452_MinimumNumberOfArrowsToBurstBalloons.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com452" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn452" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q452_MinimumNumberOfArrowsToBurstBalloons.java" />
               <option name="titleSlug" value="minimum-number-of-arrows-to-burst-balloons" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q453_MinimumMovesToEqualArrayElements.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q453_MinimumMovesToEqualArrayElements.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q453_MinimumMovesToEqualArrayElements.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q460_LfuCache.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q460_LfuCache.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q460_LfuCache.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -682,8 +282,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q463_IslandPerimeter.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com463" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn463" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q463_IslandPerimeter.java" />
               <option name="titleSlug" value="island-perimeter" />
             </LeetcodeEditor>
@@ -693,34 +293,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q482_LicenseKeyFormatting.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com482" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn482" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q482_LicenseKeyFormatting.java" />
               <option name="titleSlug" value="license-key-formatting" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q494_TargetSum.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q494_TargetSum.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q494_TargetSum.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q495_TeemoAttacking.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q495_TeemoAttacking.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q495_TeemoAttacking.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q496_NextGreaterElementI.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q496_NextGreaterElementI.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q496_NextGreaterElementI.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -728,34 +304,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q498_DiagonalTraverse.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com498" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn498" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q498_DiagonalTraverse.java" />
               <option name="titleSlug" value="diagonal-traverse" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q509_FibonacciNumber.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q509_FibonacciNumber.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q509_FibonacciNumber.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q538_ConvertBstToGreaterTree.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q538_ConvertBstToGreaterTree.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q538_ConvertBstToGreaterTree.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q53_MaximumSubarray.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q53_MaximumSubarray.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q53_MaximumSubarray.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -763,8 +315,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q560_SubarraySumEqualsK.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com560" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn560" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q560_SubarraySumEqualsK.java" />
               <option name="titleSlug" value="subarray-sum-equals-k" />
             </LeetcodeEditor>
@@ -774,42 +326,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q578_GetHighestAnswerRateQuestion.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com578" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn578" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q578_GetHighestAnswerRateQuestion.java" />
               <option name="titleSlug" value="get-highest-answer-rate-question" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q598_RangeAdditionIi.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q598_RangeAdditionIi.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q598_RangeAdditionIi.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q61_RotateList.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q61_RotateList.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q61_RotateList.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q652_FindDuplicateSubtrees.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q652_FindDuplicateSubtrees.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q652_FindDuplicateSubtrees.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q654_MaximumBinaryTree.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q654_MaximumBinaryTree.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q654_MaximumBinaryTree.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -817,8 +337,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q65_ValidNumber.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com65" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn65" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q65_ValidNumber.java" />
               <option name="titleSlug" value="valid-number" />
             </LeetcodeEditor>
@@ -828,8 +348,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q66_PlusOne.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com66" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn66" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q66_PlusOne.java" />
               <option name="titleSlug" value="plus-one" />
             </LeetcodeEditor>
@@ -839,8 +359,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q670_MaximumSwap.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com670" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn670" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q670_MaximumSwap.java" />
               <option name="titleSlug" value="maximum-swap" />
             </LeetcodeEditor>
@@ -850,34 +370,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q680_ValidPalindromeIi.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com680" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn680" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q680_ValidPalindromeIi.java" />
               <option name="titleSlug" value="valid-palindrome-ii" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q696_CountBinarySubstrings.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q696_CountBinarySubstrings.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q696_CountBinarySubstrings.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q700_SearchInABinarySearchTree.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q700_SearchInABinarySearchTree.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q700_SearchInABinarySearchTree.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q701_InsertIntoABinarySearchTree.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q701_InsertIntoABinarySearchTree.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q701_InsertIntoABinarySearchTree.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -885,8 +381,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q708_InsertIntoASortedCircularLinkedList.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com708" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn708" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q708_InsertIntoASortedCircularLinkedList.java" />
               <option name="titleSlug" value="insert-into-a-sorted-circular-linked-list" />
             </LeetcodeEditor>
@@ -896,8 +392,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q717_OneBitAnd2BitCharacters.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com717" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn717" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q717_OneBitAnd2BitCharacters.java" />
               <option name="titleSlug" value="1-bit-and-2-bit-characters" />
             </LeetcodeEditor>
@@ -907,26 +403,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q721_AccountsMerge.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com721" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn721" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q721_AccountsMerge.java" />
               <option name="titleSlug" value="accounts-merge" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q72_EditDistance.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q72_EditDistance.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q72_EditDistance.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q743_NetworkDelayTime.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q743_NetworkDelayTime.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q743_NetworkDelayTime.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -934,18 +414,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q766_ToeplitzMatrix.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com766" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn766" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q766_ToeplitzMatrix.java" />
               <option name="titleSlug" value="toeplitz-matrix" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q785_IsGraphBipartite.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q785_IsGraphBipartite.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q785_IsGraphBipartite.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -953,8 +425,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q78_Subsets.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com78" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn78" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q78_Subsets.java" />
               <option name="titleSlug" value="subsets" />
             </LeetcodeEditor>
@@ -964,18 +436,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q791_CustomSortString.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com791" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn791" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q791_CustomSortString.java" />
               <option name="titleSlug" value="custom-sort-string" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q797_AllPathsFromSourceToTarget.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q797_AllPathsFromSourceToTarget.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q797_AllPathsFromSourceToTarget.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -983,34 +447,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q824_GoatLatin.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com824" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn824" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q824_GoatLatin.java" />
               <option name="titleSlug" value="goat-latin" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q828_CountUniqueCharactersOfAllSubstringsOfAGivenString.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q828_CountUniqueCharactersOfAllSubstringsOfAGivenString.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q828_CountUniqueCharactersOfAllSubstringsOfAGivenString.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q869_ReorderedPowerOf2.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q869_ReorderedPowerOf2.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q869_ReorderedPowerOf2.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q886_PossibleBipartition.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q886_PossibleBipartition.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q886_PossibleBipartition.java" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1018,8 +458,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q896_MonotonicArray.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com896" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn896" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q896_MonotonicArray.java" />
               <option name="titleSlug" value="monotonic-array" />
             </LeetcodeEditor>
@@ -1029,42 +469,21 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q929_UniqueEmailAddresses.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com929" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn929" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q929_UniqueEmailAddresses.java" />
               <option name="titleSlug" value="unique-email-addresses" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q92_ReverseLinkedListIi.java">
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q946_ValidateStackSequences.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q92_ReverseLinkedListIi.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q92_ReverseLinkedListIi.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q931_MinimumFallingPathSum.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q931_MinimumFallingPathSum.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q931_MinimumFallingPathSum.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q95_UniqueBinarySearchTreesIi.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q95_UniqueBinarySearchTreesIi.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q95_UniqueBinarySearchTreesIi.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q96_UniqueBinarySearchTrees.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q96_UniqueBinarySearchTrees.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q96_UniqueBinarySearchTrees.java" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q946_ValidateStackSequences.md" />
+              <option name="frontendQuestionId" value="leetcode.cn946" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q946_ValidateStackSequences.java" />
+              <option name="titleSlug" value="validate-stack-sequences" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1072,8 +491,8 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q973_KClosestPointsToOrigin.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com973" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn973" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q973_KClosestPointsToOrigin.java" />
               <option name="titleSlug" value="k-closest-points-to-origin" />
             </LeetcodeEditor>
@@ -1083,82 +502,32 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q977_SquaresOfASortedArray.md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com977" />
-              <option name="host" value="leetcode-cn.com" />
+              <option name="frontendQuestionId" value="leetcode.cn977" />
+              <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q977_SquaresOfASortedArray.java" />
               <option name="titleSlug" value="squares-of-a-sorted-array" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q98_ValidateBinarySearchTree.java">
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/leetcode/editor/cn/Q946_ValidateStackSequences.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q98_ValidateBinarySearchTree.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q98_ValidateBinarySearchTree.java" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q946_ValidateStackSequences.md" />
+              <option name="frontendQuestionId" value="leetcode.cn946" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q946_ValidateStackSequences.java" />
+              <option name="titleSlug" value="validate-stack-sequences" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q990_SatisfiabilityOfEqualityEquations.java">
+        <entry key="/var/folders/vv/ys692_ns5h1gm6c2w4503krc0000gn/T/leetcode/editor/cn/[946]验证栈序列.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q990_SatisfiabilityOfEqualityEquations.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q990_SatisfiabilityOfEqualityEquations.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q992_SubarraysWithKDifferentIntegers.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q992_SubarraysWithKDifferentIntegers.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q992_SubarraysWithKDifferentIntegers.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/Q剑指 Offer II 069_B1IidL.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q剑指 Offer II 069_B1IidL.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q剑指 Offer II 069_B1IidL.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/TwoSum.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1_TwoSum.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1_TwoSum.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[1]TwoSum.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1_TwoSum.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1_TwoSum.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[1]两数之和.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q1_TwoSum.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q1_TwoSum.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[2]两数相加.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/AddTwoNumbers.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/AddTwoNumbers.java" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/[3]无重复字符的最长子串.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/[3]无重复字符的最长子串.md" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/[3]无重复字符的最长子串.java" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/Q946_ValidateStackSequences.md" />
+              <option name="frontendQuestionId" value="leetcode.cn946" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/Q946_ValidateStackSequences.java" />
+              <option name="titleSlug" value="validate-stack-sequences" />
             </LeetcodeEditor>
           </value>
         </entry>
