@@ -62,7 +62,7 @@ public class Q721_AccountsMerge{
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public List<List<String>> accountsMerge(List<List<String>> accounts) {
-        Union
+        return null;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
